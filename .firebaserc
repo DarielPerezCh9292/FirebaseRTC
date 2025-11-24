@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fir-rtc-89b99"
-  }
+    "default": "testwebrtc-ac6f3",
+    "testWEBRTC": "testwebrtc-ac6f3"
+  },
+  "targets": {},
+  "etags": {}
 }
